@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "D:/AAST/6th term/Computer Archeticture/LAB/YoussefBarrima_18100743/MIPS_SingleCycle_YoussefMohamedBarrima_18100743/MIPS_isim_beh.exe" -prj "D:/AAST/6th term/Computer Archeticture/LAB/YoussefBarrima_18100743/MIPS_SingleCycle_YoussefMohamedBarrima_18100743/MIPS_beh.prj" "work.MIPS" 

@@ -1,0 +1,43 @@
+Running: Y:\New folder\Programs\XLinix\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib secureip -o D:/AAST/6th term/Computer Archeticture/LAB/YoussefBarrima_18100743/MIPS_SingleCycle_YoussefMohamedBarrima_18100743/MIPS_isim_beh.exe -prj D:/AAST/6th term/Computer Archeticture/LAB/YoussefBarrima_18100743/MIPS_SingleCycle_YoussefMohamedBarrima_18100743/MIPS_beh.prj work.MIPS 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Parsing VHDL file "D:/AAST/6th term/Computer Archeticture/LAB/YoussefBarrima_18100743/MIPS_SingleCycle_YoussefMohamedBarrima_18100743/SignExtend.vhd" into library work
+Parsing VHDL file "D:/AAST/6th term/Computer Archeticture/LAB/YoussefBarrima_18100743/MIPS_SingleCycle_YoussefMohamedBarrima_18100743/ShiftLeft.vhd" into library work
+Parsing VHDL file "D:/AAST/6th term/Computer Archeticture/LAB/YoussefBarrima_18100743/MIPS_SingleCycle_YoussefMohamedBarrima_18100743/RegisterFile.vhd" into library work
+Parsing VHDL file "D:/AAST/6th term/Computer Archeticture/LAB/YoussefBarrima_18100743/MIPS_SingleCycle_YoussefMohamedBarrima_18100743/PC.vhd" into library work
+Parsing VHDL file "D:/AAST/6th term/Computer Archeticture/LAB/YoussefBarrima_18100743/MIPS_SingleCycle_YoussefMohamedBarrima_18100743/MUX_2_to_1.vhd" into library work
+Parsing VHDL file "D:/AAST/6th term/Computer Archeticture/LAB/YoussefBarrima_18100743/MIPS_SingleCycle_YoussefMohamedBarrima_18100743/InstructionMemory.vhd" into library work
+Parsing VHDL file "D:/AAST/6th term/Computer Archeticture/LAB/YoussefBarrima_18100743/MIPS_SingleCycle_YoussefMohamedBarrima_18100743/DataMemory.vhd" into library work
+Parsing VHDL file "D:/AAST/6th term/Computer Archeticture/LAB/YoussefBarrima_18100743/MIPS_SingleCycle_YoussefMohamedBarrima_18100743/Controller.vhd" into library work
+Parsing VHDL file "D:/AAST/6th term/Computer Archeticture/LAB/YoussefBarrima_18100743/MIPS_SingleCycle_YoussefMohamedBarrima_18100743/ALU_Control.vhd" into library work
+Parsing VHDL file "D:/AAST/6th term/Computer Archeticture/LAB/YoussefBarrima_18100743/MIPS_SingleCycle_YoussefMohamedBarrima_18100743/ALU.vhd" into library work
+Parsing VHDL file "D:/AAST/6th term/Computer Archeticture/LAB/YoussefBarrima_18100743/MIPS_SingleCycle_YoussefMohamedBarrima_18100743/ADDER.vhd" into library work
+Parsing VHDL file "D:/AAST/6th term/Computer Archeticture/LAB/YoussefBarrima_18100743/MIPS_SingleCycle_YoussefMohamedBarrima_18100743/MIPS.vhd" into library work
+WARNING:HDLCompiler:946 - "D:/AAST/6th term/Computer Archeticture/LAB/YoussefBarrima_18100743/MIPS_SingleCycle_YoussefMohamedBarrima_18100743/MIPS.vhd" Line 193: Actual for formal port s is neither a static name nor a globally static expression
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package numeric_std
+Compiling architecture behavioral of entity MUX_2_to_1 [mux_2_to_1_default]
+Compiling architecture behavioral of entity SignExtend [signextend_default]
+Compiling architecture behavioral of entity RegisterFile [registerfile_default]
+Compiling architecture behavioral of entity MUX_2_to_1 [\MUX_2_to_1(5)\]
+Compiling architecture behavioral of entity InstructionMemory [instructionmemory_default]
+Compiling architecture behavioral of entity ALU_Control [alu_control_default]
+Compiling architecture behavioral of entity ALU [alu_default]
+Compiling architecture behavioral of entity DataMemory [datamemory_default]
+Compiling architecture behavioral of entity Controller [controller_default]
+Compiling architecture behavioral of entity PC [pc_default]
+Compiling architecture behavioral of entity ADDER [adder_default]
+Compiling architecture behavioral of entity ShiftLeft [shiftleft_default]
+Compiling architecture behavioral of entity ShiftLeft [\ShiftLeft(28)\]
+Compiling architecture behavioral of entity mips
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 30 VHDL Units
+Built simulation executable D:/AAST/6th term/Computer Archeticture/LAB/YoussefBarrima_18100743/MIPS_SingleCycle_YoussefMohamedBarrima_18100743/MIPS_isim_beh.exe
+Fuse Memory Usage: 36112 KB
+Fuse CPU Usage: 765 ms
